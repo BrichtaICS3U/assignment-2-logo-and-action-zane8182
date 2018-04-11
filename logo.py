@@ -1,4 +1,7 @@
-# Pygame Template File
+# ICS3U
+# Assignment 2: Logo
+# <your name>
+
 # adapted from http://www.101computing.net/getting-started-with-pygame/
 
 # Import the pygame library and initialise the game engine
@@ -12,7 +15,7 @@ WHITE = (255, 255, 255)
 GREEN = (0, 255, 0)
 RED = (255, 0, 0)
 
-# Set the screen size (don't change this please)
+# Set the screen size (please don't change this)
 SCREENWIDTH = 400
 SCREENHEIGHT = 400
 

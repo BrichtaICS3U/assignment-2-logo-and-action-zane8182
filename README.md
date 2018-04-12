@@ -24,7 +24,7 @@ Use the tutorials and the action.py file to create an animation. Choose whicheve
 
 3. Draw your sprite using primitive shapes. You don't need to go crazy here, but use at least three shapes to draw your sprite
 
-4. Store your sprites in a list
+4. Store your sprites in a list. Have your sprites move in some way (going up, going down, moving left to right, etc.)
 
 5. Use a PNG for the background (this is in tutorial 5). Cite the source of your image in your code 
 

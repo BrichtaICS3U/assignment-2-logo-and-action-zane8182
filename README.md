@@ -16,13 +16,13 @@ Criteria/Requirements:
 5. Your code should contain some comments describing what each part of the code does and how each shape relates to the whole 
 
 Part B: Action
-Use the tutorials and the action.py file to create an animation. Choose whichever theme you like, but consider the criteria. Themes might include a star field, snowflakes, etc. (5 marks)
+Use the tutorials and the action.py file to create an animation. Choose whichever theme you like, but consider the criteria. Themes might include a star field, snowflakes, an underwater scene, etc. (5 marks)
 
 1. Your code must include a header (similar to part A)
 
 2. You must create a class for your sprites. You will need to add this to your repository
 
-3. Draw your sprite using primitive shapes. You don't need to go crazy here, but use at least three shapes
+3. Draw your sprite using primitive shapes. You don't need to go crazy here, but use at least three shapes to draw your sprite
 
 4. Store your sprites in a list
 
